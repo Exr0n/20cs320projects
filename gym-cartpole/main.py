@@ -2,6 +2,9 @@
 # Q learning basics from: https://www.oreilly.com/radar/introduction-to-reinforcement-learning-and-openai-gym/
 
 import numpy as np
+from keras.models import Sequential
+from keras.layers import Dense
+from keras.optimizers import Adam
 import gym
 config = {
     'episodes': 1000,
