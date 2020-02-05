@@ -93,5 +93,5 @@ class DQNCartPoleSolver():
         return e
 
 if __name__ == '__main__':
-    agent = DQNCartPoleSolver(monitor=True)
+    agent = DQNCartPoleSolver(n_episodes=5000, monitor=True)
     agent.run()
