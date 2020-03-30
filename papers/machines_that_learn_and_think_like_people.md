@@ -57,3 +57,28 @@ neurons => paralell distributed processing (pdp)
     **PDP is also compatible with model building**
 
 end pg7
+
+30 Mar 2020
+
+big neural nets don't mimic humans, but they are the best we have in many fields.
+
+macaque IT cortex?
+
+care alot about **small amounts of training data**
+
+when written, convolutional neural nets can achieve near human performance on *specific data sets*  
+But humans still learn better -- less data, able to imagine/draw new characters, describe parts
+
+Probabilistic program induction?
+
+planning over time is always hard... seeing the world as goal setting? (wait but why has something on that I think)
+
+deep q learning as a connectionist model?
+
+Even though the same model was used to play all the atari games, it was retrained for each game so the end state, weights, etc were still specialized to that game only.
+500x more training time than a human, only 10% performance...  
+Later iterations achieved better "ratio" (80-90%) through specialized tuning (better experience replay, parameter sharing?)
+
+Humans learn faster than techniques we have, so maybe the techniques we have are doing something different...
+
+end pg 13
