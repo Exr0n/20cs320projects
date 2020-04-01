@@ -82,3 +82,25 @@ Later iterations achieved better "ratio" (80-90%) through specialized tuning (be
 Humans learn faster than techniques we have, so maybe the techniques we have are doing something different...
 
 end pg 13
+
+Human flexibility is still crazy -- change colors and DQN breaks
+
+different goals listen on pg14 are interesting,,, shows that humans build intermediete knowledge?
+
+**How do humans retain prior knowledge, and how is it structured?**
+
+"in ways contemporary machine learning has yet to capture"... this is the researcher's outlook on ML.
+
+# 4. Core ingredients of human intelligence
+
+## 4.1 Physics
+
+the concept of an internal "physics engine" developed at an early age
+
+crude/inaccurate/probabilistic but "good enough"
+
+"conectionist models" again?
+
+can models be trained to learn physics based on "infant perception"?
+
+end pg 18
